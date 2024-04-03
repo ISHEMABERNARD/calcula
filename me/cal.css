@@ -1,0 +1,28 @@
+body {
+  background-color: gainsboro;
+}
+.wrap {
+  padding-top: 10px;
+  padding-left: 60px;
+  margin-top: 130px;
+  margin-left: 500px;
+  position: fixed;
+  height: 11cm;
+  width: 10cm;
+  background-color: grey;
+}
+input {
+  height: 1cm;
+  width: 2cm;
+  font-size: larger;
+  font-family: cursive;
+}
+input:hover {
+  color: darkred;
+}
+fieldset {
+  width: 70%;
+}
+h3:hover {
+  color: darkred;
+}
